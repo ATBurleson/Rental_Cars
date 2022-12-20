@@ -1,6 +1,0 @@
-Here is the rental information for jj
-Vehicle type picked: car
-Vehicle brand picked: Toyota
-jj is renting a Toyota Camry
-jj is renting a 2019 Toyota Camry
-jj rental price comes out to be: 52.2
